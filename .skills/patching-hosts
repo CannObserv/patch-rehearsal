@@ -1,0 +1,5 @@
+# A patch-run rehearsal's knob: two throwaway hosts, one dated window.
+class production
+posture scheduled
+origin Tailscale follow
+window 2026-11-24 18:00-23:00 rehearsal
